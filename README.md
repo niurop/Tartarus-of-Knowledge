@@ -9,6 +9,8 @@ Here we gather the best explanations of everything that is truly useful.
 
 You will find many ready to go implementations of every known algorithm, so You will no longer need to look for weird libraries on the internet or use costly solutions, but instead just copy/paste our solutions.
 
+Here We will collect and catalog all known theorems together with their proofs and the best explanations.
+
 No longer will You spend hours upon hours, searching for explanation often not understanding most of it, but here You will find every topic explained in many different ways so You will always find one that works for You.
 
 You will be able to access our open databases for anything You want.
